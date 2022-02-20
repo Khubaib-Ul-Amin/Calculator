@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(45deg, #080808, #ada8a800);
+}
+
+.container {
+    margin: 59px 500px;
+    text-align: center;
+    display: inline-block;
+    align-items: center;
+    position: relative;
+    background: linear-gradient(45deg, #18151500, #2c2b2b);
+    border-radius: 14px;
+    padding: 10px;
+}
+
+table {
+    margin: auto;
+}
+
+button {
+    width: 4rem;
+    height: 4rem;
+    margin: 5px;
+    border-radius: 7px;
+    font-size: 30px;
+    background-color: #fbfafb38;
+}
+
+input {
+    height: 30px;
+    width: 369px;
+    border: 3px #0e0e0e61 solid;
+    border-radius: 6px;
+    font-size: 22px;
+}
